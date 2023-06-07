@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}
+= Vineet Gokhale
+
+Complete and updated list of publications can found on [https://scholar.google.com/citations?user=JdN1IDZq5bEC&hl=en Google Scholar] and [https://dblp.org/pers/g/Gokhale:Vineet.html DBLP].
+
+
+== Journals
+- *V. Gokhale*, K. Kroep, V. Rao, J. Verburg, R. Yechangunja /TIXT: An Extensible Testbed for Tactile Internet Communication/, IEEE Internet of Things Magazine, 2020.
+- *V. Gokhale*, J. Nair, S. Chaudhuri, J. Fesl, \On QoS-Compliant Telehaptic Communication over Shared Networks\, Communication Networks, 2019.
+- *V. Gokhale*, J. Nair, S. Chaudhuri, /Congestion control for network-aware telehaptic communication/, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2017.
+
+== Conferences
+- J.P. Verburg, K. Kroep, *V. Gokhale*, R.V. Prasad, V. Rao, /Setting the Yardstick: A Quantitative Metric for Effectively Measuring Tactile Internet/, IEEE INFOCOM, 2020.
+- K. Iiyoshi, M. Tauseef, R. Gebremedhin, *V. Gokhale*, M. Eid, /Towards Standardization of Haptic Handshake for Tactile Internet: A WebRTC-Based Implementation/, IEEE International Symposium on Haptics Audio Visual Environments and Games (HAVE), 2019.
+- *V. Gokhale*, J. Nair, S. Chaudhuri, S. Kakade, /Network-aware adaptive sampling for low bitrate telehaptic communication/, Eurohaptics, 2018.
+- *V. Gokhale*, J. Fesl, /On TCP-Induced Telehaptic Packet Loss and Jitter/, Advanced Computer Information Technologies, 2018.
+- J. Fesl, *V. Gokhale*, M. Dolezalova, J. Cehak, J. Janecek, /Cloud Infrastructures Protection Technique Based on Virtual Machines Live Migration/,  Advanced Computer Information Technologies, 2018.
+- *V. Gokhale*, J. Nair, S. Chaudhuri, /Teleoperation over a shared network: When does it work?/, IEEE International Symposium on Haptics Audio Visual Environments and Games (HAVE), 2017.
+- *V. Gokhale*, J. Nair, S. Chaudhuri, /Opportunistic adaptive haptic sampling on forward channel in telehaptic communication/, IEEE Haptics Symposium, 2016.
+- *V. Gokhale*, S. Chaudhuri, O. Dabeer, /HoIP: A point-to-point haptic data communication protocol and its evaluation/, National Conference on Communications, 2015.
+- *V. Gokhale*, O. Dabeer, S. Chaudhuri, /HoIP: Haptics over internet protocol/, IEEE International Symposium on Haptics Audio Visual Environments and Games (HAVE), 2013.
+
+
+== Patents
+S. Chaudhary, *V. Gokhale*, S. Chaudhuri, ``A virtual reality system and method for providing synchronous tactile feedback for user interaction'', Indian Patent Filed, 503/MUM/2015, February 2015.
+
+
+
+
+
+
